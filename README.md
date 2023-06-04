@@ -5,11 +5,13 @@
 + 공동작성자 : 부산수영중학교 김시환
 
 ## 프로젝트 제목
-
+haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaappycaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaat
 
 ## 프로젝트 실행방법
 ---
-1. 프로젝트 실행 방법을 순서대로 적어주세요.
+1. 버튼을 누른다.
+2. 창이 열린다.
+3. 귀여워한다.
 
 
 ## 프로젝트 개발언어
