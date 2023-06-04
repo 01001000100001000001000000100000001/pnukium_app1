@@ -2,7 +2,7 @@
 # PNU SW AI 키움학교 : AI_App 잎새과정 
 + 작성자 : 부산수영중학교 장윤성
 + 작성일 : 2023년 6월 4일
-+ 공동작성자 : 부산수영중학교 김시환
++ 공동작성자 : 부산수영중학교 얼굴대표 존잘 섹시 큐티 김시환
 
 ## 프로젝트 제목
 haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaappycaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaat
